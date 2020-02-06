@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/tab_standard.png</file>
+        <file>images/tab_selected.png</file>
+        <file>StoreFront.qml</file>
+        <file>Backend.qml</file>
+        <file>CustomStyleTab.qml</file>
+        <file>EditGod.qml</file>
+        <file>images/textinput.png</file>
+        <file>CustomStyleTextField.qml</file>
+        <file>resources/data.csv</file>
+    </qresource>
+</RCC>
